@@ -1,8 +1,8 @@
 baseURL = "vincentz.netlify.com"
 languageCode = "en-us"
-title = "Edna West"
+title = "Vincent Zhu"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© Vincent Zhu"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Vincent Zhu"
+  sub = "Atlanta, GA"
 
 [taxonomies]
   design = "designs"
@@ -45,12 +45,10 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
+
 
 [params.contact]
-  email = ""
+  email = "vinzhu07@gmail.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 

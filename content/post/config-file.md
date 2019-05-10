@@ -57,10 +57,7 @@ pygmentsCodeFences=true
   favicon = ""
   customCSS = ""
 
-[params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
+
 
 [params.contact]
   email = ""
