@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/vinzhu07
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vincentz.netlify.com
+  * I am vinzhu07 (https://keybase.io/vinzhu07) on keybase.
+  * I have a public key with fingerprint 098A D820 4C65 7C56 6AE5  D018 FF8F 5559 7A60 9547
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120226ef157826fd2e96cba99ff14e77ddc8950dbea44f84d8c821102a6295ba5cb0a",
+      "fingerprint": "098ad8204c657c566ae5d018ff8f55597a609547",
+      "host": "keybase.io",
+      "key_id": "ff8f55597a609547",
+      "kid": "01019459b1bc9f2df3adf73e9ba2920910e7eb1fec7d5aa9b354f8e0580e286cb86a0a",
+      "uid": "aff608f3f3bd7dc01a2dc58dbb791f19",
+      "username": "vinzhu07"
+    },
+    "service": {
+      "hostname": "vincentz.netlify.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1557598518,
+  "expire_in": 157680000,
+  "prev": "12da929eb3442462606e49448a7a1cd2102399d4594dc14a056766e5b85f2a35",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMN7AnicbZJ9UFRVGMZ3EW0AmWqGiIYB9SJjjbTce/ae+0EamxOQCOgoTBjYcu49
+58KFZXfdL2UJSkZrUEcJczWoEZyalCjpg5IGJAxTtAk/EJpkZkkBbSBECMsk6S6T
+0z+df86cd57nd573Pac7fIEuVD+3P2ezt+Bgmv5CV4Nblz/wOFdOSTZcRiWVUyVk
+fiMWTJwuc4mKqSSKZgANAEcUBvIC4BQMiMjJEhJFRWFYwvMYy4IIaSwRxLKKwGJB
+FgDD0ABxQIQSgrJEIyqBUlRrIXHYHarVFcCKAsICoFmZg7wMOQ4RiGlGUBRBgRCK
+POJoEbK8ZiyyOQMOLZyEnMSg2rSadjDPx/sf/cPcNCOyUJQYSRYVgBUjwgpvJKKE
+gAhokaEJTyRGITKPIUKiZIRaekJDgSZA0DoUODSf2z2PQ4rC0YJiVIwS5rFMMwhg
+GQpYkniRURgxIHQShxWVEk3tUa3eIjfNUxUJlFb1qDIJDDbQyX8KmVhdXoOVuCyq
+UmaQbaUaw+6wuWyyzaIpilwuuzMpQHCV2QOWbUQy/wszS6oVa/PUHB7icKo2K5XE
+aErZpQboDIQ8FAXICAkU2W5XHcSsBhSQ5wRaW4F7iEdDMgAjEYhEMrIsYDnA0Rxh
+RZYVEI8YGQPtFY2iiLUxslhmWERDjuc4AiUBKgAZIRVob6vVprE1qAsVakynWmhF
+LreDUBWnu/KDdfpQ3aKFQYGPpgsNeezh9/P8+ejc5mrH1hBT3pr4sOwTLTWh98ZP
+Dr+zHMS0moIid/QuT7+ePnZgeZlv+8XxxOk5xM5mvT76dW0awk3c2vCY83uqW7Y1
+P3DfmBmJOl6fSj2XkirZT7c0zPzVvOeLiYGW4qOxiz85dNg3bml/qX3WfW0wol5P
+nv1hbWfkLm/mUHnQqc/DxtfsK+1NzH5i6bTOVLxig7k3YyAi+1bq8bK8uIRudfzq
+/ZHOjyor77zhfS0oHTPhaNdgUe6LL/cd++DyCqy/O90UH1b34PtJKiPu1/KsZnHq
+cmbIxJasjcmkzmI19Ib1+9oL+ttM73atPBZsGTa1FcfHDr6ypemQo37al/SM4ffP
+gnd2FPtrR2vw9TN5wtKU9Ttjl81tbB5tvfrL86225AGmQvhydVqEtGOoQW+8wh9u
+jGkbq4tsrb795rc3PLfPR73V8erJhkU/9Xw327my4ptzP+5dZV+yOLeq7yyouhuV
+EZ9mufJIedg5+qn8QWV31tmO3SGNY38Mftyfms0c8RdEmKqC+xV/ND7imXzBfzNn
+/xKlc31utK8nur1xcsHQrWXmpyNGagsP+DNuen97b6hn3cHiytEPKzal/5z89qXh
+e8aLuIbu3vfkiZzYmfur2vZ2Xzq1UNea8em6LlA1OxF3rQsmbDrjr83M9uVP9qRM
+DSUe9X5leL/deye1u88wsXrq7xK79wLY8A+jQcx0
+=FnlZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vinzhu07
+
+==================================================================
