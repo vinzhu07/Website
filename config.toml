@@ -23,7 +23,7 @@ pygmentsCodeFences=true
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = ['Resume'] # values: ['post', 'Resume'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
   gopher = "/images/gopher.png" # checkout https://gopherize.me/
@@ -37,9 +37,9 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '' # header background image - default "/images/wallpaper.jpg" - 
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "" # - default "/images/face.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
@@ -63,14 +63,14 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
+  name = "Resume"
+  title = "Resume"
   url = "/portfolio/"
   weight = -110
 
 [[menu.main]]
   identifier = "blog"
-  name = "Post"
+  name = "Other"
   title = "Blog section"
   url = "/post/"
   weight = -100
