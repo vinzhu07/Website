@@ -1,92 +1,72 @@
-baseURL = ""
-languageCode = "en-us"
-title = "Vincent Zhu"
-theme = "personal-web"
-copyright="© Vincent Zhu"
-googleAnalytics = ""
-enableEmoji=true
-enableRobotsTXT=true
-pygmentsUseClasses=true
-pygmentsCodeFences=true
+## Basic Configuration
+baseurl = "https://vincentz.netlify.com/"
+languageCode = "en"
 
-[params.intro]
-  main = "Vincent Zhu"
-  sub = "Atlanta, GA"
+title = "Title"
+theme = "hyde-hyde"
 
-[taxonomies]
-  design = "designs"
-  tech = "techs"
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
 
-[blackfriday]
-  hrefTargetBlank = true
+# summarylength = 30
 
+#paginate = 5
+
+## Site Settings
 [params]
-  breadcrumb = true
-  accentColor = "#FD3519"
-  mainSections = ['Resume'] # values: ['post', 'Resume'] only accept one section, to be displayed bellow 404
+    author = "Author"
+    title = "Title"
+    # description = "..."
+    authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
 
-[params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
-  h1 = 'Bummer!'
-  p = "It seems that this page doesn't exist."
+    # sidebar, copyright & license
+    copyright = "htr3n"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
 
-[params.sections]
-  # Define how your sections will be called
-  # when automatically pulled. For instance in the 404 page
-  post = "article"
-  portfolio = "project"
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
 
-[params.sidebar]
-  backgroundImage = '' # header background image - default "/images/wallpaper.jpg" - 
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/face.jpg"
-[params.assets]
-  favicon = ""
-  customCSS = ""
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
 
+## Social Accounts
 [params.social]
+    github = "<username>"
+    instagram = "<username>"
+    xing = "<username>"
+    linkedin = "<username>"
+    twitter = "<username>"
+    facebook = "<username>"
+    stackoverflow = "<username>"
+    telegram = "<username>"
+    email = "your-email@example.com"
+    # gravatar = "your-email@example.com"
 
-
-[params.contact]
-  email = "vinzhu07@gmail.com"
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
-
-
-[menu]
-
+## Main Menu
 [[menu.main]]
-  identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
-  weight = -120
-
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
 [[menu.main]]
-  identifier = "portfolio"
-  name = "Resume"
-  title = "Resume"
-  url = "/resume/"
-  weight = -110
-
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 200
+    url = "/portfolio/"
 [[menu.main]]
-  identifier = "blog"
-  name = "Other"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
-
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
-    useSessionStorage = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-    simple = false
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
