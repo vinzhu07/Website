@@ -1,10 +1,17 @@
----
-title: ABOUT
-description: Hey, I'm Edna West
-images: ["/images/sample.jpg"]
----
++++
+title = "About Hugo"
+date = "2014-04-09"
++++
+
+Hugo is a static site engine written in Go.
 
 
-This is my about page. :wave:
+It makes use of a variety of open source projects including:
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+* [Cobra](https://github.com/spf13/cobra)
+* [Viper](https://github.com/spf13/viper)
+* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
+* [Cast](https://github.com/spf13/cast)
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
+

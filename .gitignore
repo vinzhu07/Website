@@ -1,2 +1,3 @@
-public/
-resources/
+/public
+/themes
+.DS_Store
