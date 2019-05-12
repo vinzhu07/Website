@@ -2,7 +2,7 @@
 baseurl = "https://vincentz.netlify.com/"
 languageCode = "en"
 
-title = "Title"
+title = "Vincent Zhu"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -16,16 +16,15 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
-    title = "Title"
+    author = "Vincent Zhu"
+    title = "Vincent Zhu"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/Face.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
-    copyright = "htr3n"
-    license = "CC BY-SA 4.0"
-    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    copyright = "Vincent Zhu"
+    
     showBuiltWith = true
 
     # https://highlightjs.org
@@ -43,30 +42,26 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
-    email = "your-email@example.com"
-    # gravatar = "your-email@example.com"
+    
+    instagram = "vinzhu07"
+    linkedin = "vinzhu07"
+    email = "vinzhu07@gmail.com"
+    
+   
 
 ## Main Menu
 [[menu.main]]
     name = "Posts"
-    weight = 100
+    weight = 300
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
+    name = "Experience"
+    identifier = "Experience"
     weight = 200
-    url = "/portfolio/"
+    url = "/experience/"
 [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 300
+    weight = 100
     url = "/about/"
