@@ -36,3 +36,6 @@ Ms. Eckert sacrificed her hard work and time for our group of kids free of charg
 
 
 Throughout 2018 I mentioned to my friends about hosting a bridge camp, but no concrete progress was made, and after Ms. Eckert's death late in 2018, I felt even more compelled to host this camp as a way to show respect to her. After positive encouragement from my closest friends, I reached out to Ms. Tucker, a longtime bridge teacher who heads the Atlanta Junior Bridge program. After describing my story to her, I mentioned interest in hosting a camp, and she was quickly eager to help me put this idea into reality. We initially met at Ocee library, but when we inquired about hosting this camp, we were unfortunately told that the library was being closed for renovation over the summer. Refusing to let this stop my plans, I reached out to countless other libraries and public places, such as churches. After about 5 rejections, the manager of then Gwinnett County Public Library Suwanee branch showed interest and after a long discussion, he offered me a spot during the week of July 22 to 26. 
+
+![Picture](/bridge1.jpg)
+Here's a rare picture of me and my favorite team of Alpharetta kids. Greatest team ever. 
