@@ -6,13 +6,20 @@ date = "2019-04-05"
 +++
 **Best Results**
 
+6th Place USBF Under 21 Trials 2017
+
 2016: Youth NABC 9th place Pairs and Teams 
+
+6th Place USBF Under 21 Trials 2015
 
 2015: Labor Day Regionals 1st place Gold Rush Teams 
 
-Youth NABC 3rd place Teams 
+3rd Place Youth NABC Swiss Team 2015
 
 2014: 1st place Most Points Won 0-100 MP Charleston MABC
+
+
+
 
 
 
