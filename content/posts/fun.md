@@ -5,7 +5,7 @@ date = "2019-01-01"
 
 +++
 
-Some things I have created that mostly do not belong anywhere else.
+Some things I have created for fun.
 
 A meme account on Instagram
 [@reddit_top_memes](http://instagram.com/reddit_top_memes "Memes!")
