@@ -19,6 +19,4 @@ I also enjoy playing tennis and bridge among other activities during my free tim
 
 Some more links to other small projects I've done: 
 
-[Github](http://github.com/vinzhu07 "Github!")
-
 [Repl.it](http://repl.it/@vinzhu07 "Repl.it!")
