@@ -39,7 +39,6 @@ theme = "hyde-hyde"
 
     # Table of contents
     
-    toc = "hugo"
 
 ## Social Accounts
 [params.social]

@@ -1,7 +1,7 @@
 +++
 title = "Welcome!"
 description = ""
-date = "2019-07-21"
+date = "2019-08-01"
 
 +++
 

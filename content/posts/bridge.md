@@ -1,7 +1,7 @@
 +++
 title = "Bridge!"
 description = "My Experience Playing Bridge"
-date = "2019-04-05"
+date = "2019-07-31"
 
 +++
 **Best Results**
@@ -34,9 +34,15 @@ After the 2017 USBF trials, I began taking a break from bridge. I was unable to 
 
 Ms. Eckert sacrificed her hard work and time for our group of kids free of charge. She drove us to all the games, taught us everything we know, and was a constant light in my life. Ms. Eckert was responsible for the best 5 years of my life. Always positive, she was always there for my bridge group throughout our journey, through the ups and downs. In 2016, when I was a high school freshman, Ms. Eckert suffered a stroke, and was forced to stop playing and teaching bridge. She soon moved an hour away to be near her kids, and I was never able to see her again. Towards the end of 2018, I was notified out of the blue of her death by my brother. This news shocked me, and I have never truly gotten over it, and I still think of her all the time, missing her positive personality, and never haven gotten the opportunity to fully show my appreciation to her. She was there for my team after we were destroyed in trials for the United States Junior Bridge team, and she was there when we placed third place at youth nationals in Chicago. I was only able to achieve everything I have in bridge thanks to her seeing potential in me and taking me in. Ms. Eckert was and will always be an inspiration to me and I strive to be like her in the future. Everytime I play I think of her and her dedication and continue to improve. I also have to give credit to Ms. Karen for introducing me to Ms. Eckert because on my own I never would have known her. Despite having stopped playing bridge, it is merely a hiatus and I promise myself that I will not quit and that I will get back into this hobby of mine, no matter how old I will be then. I have made some of my favorite memories ever playing bridge with kids and adults alike, and I would not replace these memories with anything else. If you ever read this, Alec and Caleb, thank you for everything that you have done for me. To the others who know who they are, thank you as well. 
 
+
+![Picture](/bridge1.jpg)
+Here's a rare picture of me and my favorite team of Alpharetta kids. Greatest team ever. Thank you for the memories I love all of you.
+
 There are a few boards and matches that I will never forget. Once at Crown Plaza, our team blitzed the first three rounds, which means that we obtained the maximum number of points possible in those rounds, which being able to do in one round is already an achievement. Another board was at World's in 2013. Playing one of the best pairs in the nation, we lucked out on a miscommunication and they ended up making a disastrous accident, which allowed Caleb and I to luck out and be top 10 in the world for just a few minutes. Miscommunications happen all the time to everyone including myself, and one that I will never forget was at a midnight knockout match with a friend who I've never played with before. Due to a lack of experience, our bidding went astray quickly as I thought he promised both spades and either clubs or diamonds when he reality he only had spades. This ended up negating insanely good play from our teammates as we got doubled and went down around 5.  This list of memorable boards will only grow as I continue to play in the future. 
 
 Throughout 2018 I mentioned to my friends about hosting a bridge camp, but no concrete progress was made, and after Ms. Eckert's death late in 2018, I felt even more compelled to host this camp as a way to pay my final respects to her. After positive encouragement from my closest friends, I reached out to Ms. Tucker, a longtime bridge teacher who heads the Atlanta Junior Bridge program. After pitching my idea of hosting a camp, she was eager to help me put this idea into reality. We initially met at Ocee library, but when we inquired about hosting this camp, we were unfortunately told that the library was closed for renovation over the summer. Refusing to let this hinder my plans, I reached out to countless other libraries and public places, such as churches. After about 5 rejections, the manager of the Gwinnett County Public Library Suwanee branch showed interest and after a period of long discussion, Mr. Freeman offered me a spot to host my bridge camp during the week of July 22 to 26. 
 
-![Picture](/bridge1.jpg)
-Here's a rare picture of me and my favorite team of Alpharetta kids. Greatest team ever. Thank you for the memories I love all of you.
+As we approached the week of camp, I inquired and was told that 16 kids had signed up. And as promised, 16 kids showed up on Monday. With almost all of them returning Tuesday, I began to have hope, but after teaching bidding, half of the kids decided it was too difficult and left. Throughout the week, the attendance steadily declined, and on Friday only 4 kids showed up. While I was disappointed, many kids had notified me that they were to be absent on Friday, so I never was that optimistic. Although the attendance was not up to my expectations, this was a great learning experience for my time teaching a bridge class.
+
+![Picture](/bridgecamp.jpg)
+Here's a picture of my favorite student from that week!
