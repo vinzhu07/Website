@@ -3,4 +3,5 @@
   publish = "public"
 
 [context.branch-deploy]
+  command = "echo bootstrap"
   publish = "./"
