@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vinzhu07
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vincentzhu.com
+  * I am vinzhu07 (https://keybase.io/vinzhu07) on keybase.
+  * I have a public key ASC2WnEvA-uuWfOFJFlYQ3jW8bRh7Z9YTPEwathBkFJh9wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b65a712f03ebae59f3852459584378d6f1b461ed9f584cf1306ad841905261f70a",
+      "host": "keybase.io",
+      "kid": "0120b65a712f03ebae59f3852459584378d6f1b461ed9f584cf1306ad841905261f70a",
+      "uid": "aff608f3f3bd7dc01a2dc58dbb791f19",
+      "username": "vinzhu07"
+    },
+    "merkle_root": {
+      "ctime": 1570408657,
+      "hash": "d656e2f59b310288feb3338c343c3711e2aacb7a224bc904c7dd15531654c5b2ec32b750b75e2ddf4f407855ea07698078ef4ce4414e9132fa4724184ce15eb9",
+      "hash_meta": "6c9cad9f77e60d15e2d3685d4fadee5024cc593c50c3ec561c86f6d34d5622a2",
+      "seqno": 7888712
+    },
+    "service": {
+      "entropy": "93DSVC+6mgEs4UR1PKIujOW8",
+      "hostname": "vincentzhu.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570408675,
+  "expire_in": 504576000,
+  "prev": "81f4cd849708fb761d1291ff5bc60c6b84a12c9a2ce0873ba80b636b6a391c54",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtlpxLwPrrlnzhSRZWEN41vG0Ye2fWEzxMGrYQZBSYfcKp3BheWxvYWTESpcCFcQggfTNhJcI+3YdEpH/W8YMa4ShLJos4Ic7qAtja2o5HFTEII3VK64KhUUCb7ABSgGIF6QS2TC4xskAOm4UuA/K4lM6AgHCo3NpZ8RAOFMZBNGQZz+ViQvx3/uuaQOY9GUIqtCE8kRyVfqijmsP/YwoIWDRe/3mVZdf6i5W1n6BBkBRk4b6P705soq+AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICO5HuzzeI2KNklWd2ukobJ9seE+gxfMms24NbolnqAqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vinzhu07
+
+==================================================================
