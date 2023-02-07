@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Oscar Autofiller</title>
+  <title>Rideshare Prototype</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -84,7 +84,7 @@
           <div class="post-box">
 
             <div class="post-meta">
-              <h1 class="article-title">Oscar Autofiller</h1>
+              <h1 class="article-title">Rideshare Prototype</h1>
               <ul>
                 <li>
                   <span class="ion-ios-person"></span>
@@ -96,40 +96,28 @@
             </div>
             <div class="article-content">
               <p>
-              <h3>Links</h3>
-              <a href="https://chrome.google.com/webstore/detail/oscar-autofiller/clkhciflendnmlhngelkcfcdgnifolnf"
-                style="color:blue">Chrome Web Store Link</a></br>
-              <a href="https://github.com/vinzhu07/OscarAutofill" style="color:blue">Github Link</a></br>
-              <br> This is an autofiller for Georgia Tech's OSCAR registration system. During my time at Tech, I've had
-              issues with the system during registration. Due to the sheer number of students logging on, it often takes
-              multiple tries to load the "Add or Drop Classes" page. Combined with the fact that the CRNs (Course
-              Registration Numbers) are all several digits, making it difficult to quickly type in course numbers on the
-              occassions OSCAR does load, I created this extension to help. It fills in your saved CRN's saving you
-              precious time that can be spent waiting on OSCAR to submit changes.
+              <h3>Who and When</h3>
+              I built this on a team of four for my ECE 4150 Cloud Computing Final Report in Fall 2022 over the course of three weeks.
               </br></br>
-              <h3>Tutorial</h3>
-              <div style="text-align: center"><img src="img/oscar1.png" style="width:20%;height:20%">
-                </br>
-                The popup you are greeted with. </br>
-                <img src="img/oscar2.png" style="width:20%;height:20%">
-                </br>
-                Type in your OSCAR course numbers, and click the save button.
-                </br>
-                <img src="img/oscar3.png" style="width:20%;height:20%">
-                </br>
-                The next time you open the popup, click load to see the saved course numbers.
-              </br>
-              <img src="img/oscar4.png" style="width:20%;height:20%">
-              </br>
-While on the OSCAR Add/Drop Class page, click fill to fill in the saved course numbers to OSCAR!
-
-                <br><br>
-
-              </div>
-              </br></br> Questions? Concerns? Contact me at Email: <a href="mailto:me@vincentzhu.com"
-                style="color:blue">me@vincentzhu.com</a>
-              </p>
-            </div>
+              <h3>What</h3>
+              My team built a rideshare website using a variety of AWS services, highlighted in the diagram below.
+              <img src="img/beanstalk.jpg" style = "max-width: 40vw;">
+              <ul>
+                <li>Elastic Beanstalk hosted our Flask application.</li>
+                <li>AWS IAM and Cognito were used for login purposes.</li>
+                <li>DynamoDB that stored data that users submitted, including rides and taxi info.</li>
+                <li>A CloudWatch rule called a Lambda function every minute which "moved" the taxis' locations in our Dynamo DB to simulate movement. </li>
+              </ul>
+              
+              This website allowed users to sign up either as a driver or a rider. If you sign up as a driver, you then register your vehicle by filling out information and uploading a picture of the car. After that, you would then be directed to a page with the open requests.
+            If you signed up as a rider, you could then see where all of the current drivers are. The drivers' vehicles were randomly located around Georgia Tech. As a rider, you can request a ride and if any taxi is available, you get the taxi that is the closest one to you
+            </br></br>
+            I mainly worked on the rider functionality, including the ride request form in which after being submitted would be uploaded to the DynamoDB. A function would also search for available taxis, and among those found, would pair the closest one to the ride, and would display the driver and car's info to the user.
+            <h3>Gallery</h3>
+            <img src = "img/rideshare2.png" style = "max-width: 40vw;">
+            <img src = "img/rideshare3.png" style = "max-width: 40vw;">
+            <img src = "img/rideshare1.png" style = "max-width: 40vw;">
+          </div>
           </div>
 
 
